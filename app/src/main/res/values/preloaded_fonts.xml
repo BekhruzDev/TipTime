@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arizonia</item>
+        <item>@font/audiowide</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/creepster</item>
+        <item>@font/eagle_lake</item>
+        <item>@font/love_ya_like_a_sister</item>
+        <item>@font/smokum</item>
+        <item>@font/waiting_for_the_sunrise</item>
+    </array>
+</resources>
